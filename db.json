@@ -1,0 +1,34 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Sunset Resort",
+      "description": "A beautiful resort with an ocean view and luxurious amenities.",
+      "image": "/img/hotel1.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Mountain Retreat",
+      "description": "A cozy retreat nestled in the mountains, perfect for relaxation and adventure.",
+      "image": "/img/hotel2.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Urban Oasis",
+      "description": "A modern hotel in the heart of the city, close to shopping and nightlife.",
+      "image": "/img/hotel3.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "Lakeside Inn",
+      "description": "A charming inn by the lake with scenic views and outdoor activities.",
+      "image": "/img/hotel4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Desert Mirage",
+      "description": "An exclusive desert resort offering peace, luxury, and breathtaking desert landscapes.",
+      "image": "/img/hotel5.jpeg"
+    }
+  ]
+}
